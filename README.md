@@ -1,2 +1,10 @@
-# backend-learning-journey
-This repository documents my daily backend development journey using Node.js, databases, APIs, and system design. It contains hands-on projects, experiments, and notes as I build real-world backend engineering skills through consistent practice.
+# Backend Learning Journey 🚀
+
+This repository documents my daily backend development learning journey.
+
+## Goals
+- Master Node.js & TypeScript
+- Build REST APIs
+- Learn Databases (SQL & MongoDB)
+- Understand Authentication & Security
+- Build production-ready backends
