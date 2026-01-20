@@ -1,4 +1,4 @@
-# Day 6 – Asynchronous Programming in Node.js
+# Day 5 – Asynchronous Programming in Node.js
 
 ## What is synchronous code?
 Synchronous code blocks execution until the task is finished.
